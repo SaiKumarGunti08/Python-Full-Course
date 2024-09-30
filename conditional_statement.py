@@ -3,7 +3,7 @@
 #if statment
 a=10
 if a>5:
-    print('satisfied a=10 so a greater than 5')
+    print('satisifed a=10 so a greater than 5')
 print('thankyou ')
 
 #if-else
